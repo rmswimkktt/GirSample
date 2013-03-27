@@ -1,0 +1,3 @@
+EclipseColorTheme
+Eclipseの背景などを一括で変更できる。
+  ヘルプ→Eclipseマーケットプレイス→検索に「Eclipse Color Theme」と入れて出てきたものをインストール。
